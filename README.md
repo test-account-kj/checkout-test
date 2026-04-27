@@ -1,2 +1,3 @@
 # checkout-test
-Bootstrap repository for checkout-test, initialized with branch protection, README, .gitignore, and LICENSE.
+
+This repository serves as a bootstrap template demonstrating branch-protection rules, required status checks, linear-history enforcement, and standardized project scaffolding for HTML projects.
