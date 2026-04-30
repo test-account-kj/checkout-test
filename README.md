@@ -1,3 +1,3 @@
 # checkout-test
 
-This repository serves as a bootstrap template demonstrating branch-protection rules, required status checks, linear-history enforcement, and standardized project scaffolding for HTML projects.
+This repository serves as a bootstrapped template demonstrating branch protection, standard community files, and repository configuration best practices.
